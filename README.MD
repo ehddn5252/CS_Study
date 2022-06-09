@@ -32,3 +32,23 @@ transaction(database)
 SQL 과 NOSQL(database)
 다익스트라 알고리즘(algorithm)
 ```
+
+06.23
+
+hj
+```
+OS & Computer (os)
+Memory (os)
+Process & PCB (os)
+Scheduling (os)
+Kruskal & Prim (algorithm)
+```
+
+dw
+```
+1. 카프카란?(Data)
+2. 엘라스틱 서치란?(Data)
+3. 캐시 메모리(OS)
+4. 해시(Algorithm)
+5. 인터프리터 언어 vs 컴파일 언어(language)
+```
