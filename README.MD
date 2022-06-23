@@ -46,9 +46,30 @@ Kruskal & Prim (algorithm)
 
 dw
 ```
-1. 카프카란?(Data)
-2. 엘라스틱 서치란?(Data)
+1. CPU(OS)
+2. 프로세스 메모리 구조(메모리 구조)
 3. 캐시 메모리(OS)
 4. 해시(Algorithm)
-5. 인터프리터 언어 vs 컴파일 언어(language)
+5. 인터프리터 언어 vs 컴파일 언어(OS)
+```
+
+
+06.30
+
+hj
+```
+1. 트랜잭션 (DB)
+2. SOLID (객체지향)
+3. JWT (web)
+4. Docker & Jenkins (web)
+5. Optional (Java)
+```
+
+dw
+```
+1. quick sort(Algorithm)
+2. network 7 layer(network)
+3. TCP vs UDP(network)
+4. block chain algorithm(new technology)
+5. JWT(web)
 ```
