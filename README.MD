@@ -73,3 +73,6 @@ dw
 4. block chain algorithm(new technology)
 5. JWT(web)
 ```
+
+07.01~07.07 복습주
+정리한 것들 중 보완할 것들 보완하기
