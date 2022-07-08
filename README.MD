@@ -68,11 +68,21 @@ hj
 dw
 ```
 1. quick sort(Algorithm)
-2. network 7 layer(network)
-3. TCP vs UDP(network)
-4. block chain algorithm(new technology)
-5. JWT(web)
+2. TCP vs UDP(network)
+3. block chain algorithm(new technology)
+4. JWT(web)
 ```
 
 07.01~07.07 복습주
 정리한 것들 중 보완할 것들 보완하기
+
+07.08
+hj
+```
+1. GC
+```
+
+dw
+```
+1. AJAX
+```
