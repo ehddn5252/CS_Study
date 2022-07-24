@@ -36,6 +36,7 @@ SQL 과 NOSQL(database)
 06.23
 
 hj
+
 ```
 OS & Computer (os)
 Memory (os)
@@ -45,6 +46,7 @@ Kruskal & Prim (algorithm)
 ```
 
 dw
+
 ```
 1. CPU(OS)
 2. 프로세스 메모리 구조(메모리 구조)
@@ -53,10 +55,10 @@ dw
 5. 인터프리터 언어 vs 컴파일 언어(OS)
 ```
 
-
 06.30
 
 hj
+
 ```
 1. 트랜잭션 (DB)
 2. SOLID (객체지향)
@@ -66,6 +68,7 @@ hj
 ```
 
 dw
+
 ```
 1. quick sort(Algorithm)
 2. TCP vs UDP(network)
@@ -78,32 +81,40 @@ dw
 
 07.08
 hj
+
 ```
 1. GC
 ```
 
 dw
+
 ```
 1. AJAX
 ```
 
-
 07.16
-hw
+hj
+
 ```
-1. Comparator vs Comparable (Java)
+1. API , REST API (Web)
 ```
 
 dw
+
 ```
 1. 이분탐색(Algorithm)
 ```
 
-
 07.23
 
+hj
 
+```
+1. 정규화, 반정규화
+```
 
 dw
+
 ```
 1. 자주 사용하는 MySQL query 정리
+```
