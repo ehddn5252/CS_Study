@@ -129,12 +129,6 @@ dw
 
 08.13
 
-dw
-
-```
-1. Hadoop Eco System
-```
-
 hj
 
 ```
@@ -147,4 +141,9 @@ hj
 
 ```
 1. Redis
+```
+
+dw
+```
+1. Java Convention and File Structure
 ```
