@@ -154,4 +154,5 @@ dw
 dw
 ```
 1. Regex
+2. Dockerfile commands
 ```
