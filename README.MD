@@ -156,3 +156,10 @@ dw
 1. Regex
 2. Dockerfile commands
 ```
+
+09.12
+
+dw
+```
+1. hadoop core components
+```
